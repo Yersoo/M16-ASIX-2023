@@ -1,0 +1,3 @@
+﻿  Blackjack definitivo.cpp
+C:\Users\yeraylasrec\source\repos\Blackjack definitivo\Blackjack definitivo\Blackjack definitivo.cpp(122,25): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Blackjack definitivo.vcxproj -> C:\Users\yeraylasrec\source\repos\Blackjack definitivo\x64\Debug\Blackjack definitivo.exe
